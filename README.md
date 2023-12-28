@@ -14,5 +14,5 @@
    _Détérminisation : Dans la précédente partie on a écrit une fonction qui permet de savoir si un automate est détérministe ou non, maintenant on s'intersse à une fonction qui permet de créer un nouvel automate détérministe à partir d'un automate non     détérministe, en prenant soin de vérifier tout les cas possibles.
    _Construction : Cette partie est un peu plus technique que les précédentes car il faut savoir traduire un algorithme mathématique en langage python, en construisant des automates à partir de différentes opérations telles que le complémentaire,          l'intersection, l'union...etc.
 
-## 4. Conclusion :
-ce projet m'a permis de développer ma façon de reflechir, en schématisant un problème informatique où un algorithme, et de concevoir une première idée pour ecrire cet algorithme dans le corps d'une fonction python. C'est aussi un bel exemple de         mélange entre programmation orientée objet et de programmation fonctionnelle.
+ ## 4. Conclusion :
+   ce projet m'a permis de développer ma façon de reflechir, en schématisant un problème informatique où un algorithme, et de concevoir une première idée pour ecrire cet algorithme dans le corps d'une fonction python. C'est aussi un bel exemple de         mélange entre programmation orientée objet et de programmation fonctionnelle.
